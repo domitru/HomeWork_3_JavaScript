@@ -8,7 +8,9 @@ alert(`по Цельсию: ${numCelsei}, по Фаренгейту: ${numFareng
 // alert( 7.3e9 );
 // alert("по Цельсию: " + numCelsei + "," + " по Фаренгейту: " + numFarengeit);
 
-
+// let numCelsei = Number.parseFloat(prompt("Введите температуру в градусах Цельсия: "));
+// let numCelsei = +prompt("Введите температуру в градусах Цельсия: "); тоже что и в строке выще
+//                    Number.parseFloat заменили на +  
 
 /*
  1.
